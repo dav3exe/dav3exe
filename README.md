@@ -2,7 +2,7 @@
 
 Full stack developer in Lagos, Nigeria. I mostly write TypeScript, with React and Next.js on the frontend and Node.js or FastAPI on the backend, on top of PostgreSQL or MongoDB.
 
-I use AI coding agents every day. They help me plan, write and review code, and I test and check everything they produce before it ships. I care about security and keep an eye on Web3.
+I use AI coding agents every day. They help me plan, write and review code, and I test and check everything they produce before it ships. I'm passionate about cybersecurity and I'm a Web3 enthusiast.
 
 ## Products I've worked on
 
